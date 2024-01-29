@@ -7,15 +7,21 @@ transformations.
 
 
 🧩Project Components: 
+
 🎯Project Scope and Objectives: The scope of this project revolves around the use of big data analytics to examine the relationships between lifestyle factors and various health parameters, especially alcohol and cigarette use. The project is about application of Data Analytics for assessing the relationship among Drinking, Smoking and health vitals such as 
 cholesterol levels, potential threats based on the vitals, hearing and eyesight. The current dataset covers a variety of demographic information and health-related 
 measures and provides a comprehensive view of individuals. The analysis will focus on identifying patterns, correlations, and potential impacts on health outcomes. 
 
 📈Descriptive Analysis: Exploring and summarizing key statistics and characteristics of the Smoking and Drinking dataset. Identifying trends, distributions, and potential outliers in the data.
+
 📈Correlation Analysis: Investigate the correlation between smoking / drinking behaviors and medical reports. 
+
 📊Temporal Trends: Examining trends in health indicators over time (in age groups). Identify any notable patterns or changes in behaviors over different time periods.
+
 ⚕️Health Impact Analysis: Exploring potential correlations between smoking and drinking behaviors and health outcomes.
+
 📶Insights and Recommendations: Providing actionable insights based on the analysis to inform public health initiatives or interventions. Generating recommendations for targeted health campaigns or educational programs based on the findings.
+
 🔎Data Quality and Limitations: Assessing the quality of the dataset, addressing any missing or inconsistent data. Clearly communicate the limitations of the analysis and the dataset.
 
 📚Drinking and Smoking Patterns Across Genders Research has highlighted gender-specific patterns in drinking and smoking behaviors. Variations in prevalence, frequency, and intensity of these habits suggest that men and women may exhibit distinct trajectories in their engagement with alcohol and tobacco.
@@ -24,11 +30,13 @@ Cardiovascular Impact
 
 🌡️Blood Pressure: Blood pressure, a crucial cardiovascular indicator, can be influenced by both  drinking and smoking habits. Studies have indicated that while both behaviors may 
 contribute to elevated blood pressure, the magnitude of this impact can vary between genders. 
+
 🫀Cholesterol Levels: Total cholesterol, HDL cholesterol, LDL cholesterol, and triglyceride levels are vital markers of cardiovascular health. Complex relationships between gender, drinking, and smoking habits influence lipid profiles, necessitating nuanced analyses considering the interplay of these factors.
 
 Metabolic Parameters
 
 🩸Fasting Blood Glucose: Metabolic indicators such as fasting blood glucose levels have been associated with both drinking and smoking. Gender-specific impacts reveal intricate associations that extend beyond individual behaviors to hormonal and metabolic influences unique to men and women.
+
 🏋🏻Weight and BMI: Biological sex plays a role in weight regulation and body mass index (BMI). The complex relationship between drinking, smoking, and weight highlights gender-
 specific patterns that necessitate a tailored approach in understanding the magnitude of these associations.
 
@@ -54,6 +62,7 @@ cardiovascular health. Lifestyle modifications, including weight control, play a
 
 🧍Weight and Metabolic Parameters (BLDS, Tot_chole, HDL_chole, LDL_chole, Triglyceride, Hemoglobin, Urine_protein, Serum_creatinine, SGOT_AST, SGOT_ALT, Gamma_GTP): Weight is intricately linked to various metabolic parameters, reflecting the overall metabolic health of individuals. Changes in weight can influence metabolic 
 indicators such as BLDS (Fasting Blood Glucose), Tot_chole (Total Cholesterol), HDL_chole (HDL Cholesterol), LDL_chole (LDL Cholesterol), Triglyceride, Hemoglobin, Urine_protein, Serum_creatinine, SGOT_AST, SGOT_ALT, and Gamma_GTP. Monitoring weight in conjunction with these parameters provides valuable insights into metabolic well-being.
+
 🧍Weight and Smoking/Drinking Status (SMK_stat_type_cd and DRK_YN): Weight can be influenced by smoking and drinking behaviors, and the relationship with Smoking Status (SMK_stat_type_cd) and Drinking Status (DRK_YN) is multifaceted. Smoking is often associated with weight loss, while excessive alcohol consumption may contribute to weight gain. Understanding the complex interplay between weight and lifestyle choices is essential for designing effective interventions for individuals with different smoking and drinking habits.
 
 👁️Sight_left, Sight_right, and Age: Eyesight tends to change with age, and Sight_left and Sight_right measurements are essential for tracking these changes. Age-related conditions such as presbyopia (difficulty focusing on close objects) or age-related macular degeneration can impact eyesight. Monitoring Sight_left and Sight_right alongside age data facilitates a comprehensive assessment of age-related variations in visual health.
