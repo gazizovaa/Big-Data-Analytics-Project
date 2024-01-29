@@ -21,11 +21,13 @@ measures and provides a comprehensive view of individuals. The analysis will foc
 📚Drinking and Smoking Patterns Across Genders Research has highlighted gender-specific patterns in drinking and smoking behaviors. Variations in prevalence, frequency, and intensity of these habits suggest that men and women may exhibit distinct trajectories in their engagement with alcohol and tobacco.
 
 Cardiovascular Impact
+
 🌡️Blood Pressure: Blood pressure, a crucial cardiovascular indicator, can be influenced by both  drinking and smoking habits. Studies have indicated that while both behaviors may 
 contribute to elevated blood pressure, the magnitude of this impact can vary between genders. 
 🫀Cholesterol Levels: Total cholesterol, HDL cholesterol, LDL cholesterol, and triglyceride levels are vital markers of cardiovascular health. Complex relationships between gender, drinking, and smoking habits influence lipid profiles, necessitating nuanced analyses considering the interplay of these factors.
 
 Metabolic Parameters
+
 🩸Fasting Blood Glucose: Metabolic indicators such as fasting blood glucose levels have been associated with both drinking and smoking. Gender-specific impacts reveal intricate associations that extend beyond individual behaviors to hormonal and metabolic influences unique to men and women.
 🏋🏻Weight and BMI: Biological sex plays a role in weight regulation and body mass index (BMI). The complex relationship between drinking, smoking, and weight highlights gender-
 specific patterns that necessitate a tailored approach in understanding the magnitude of these associations.
